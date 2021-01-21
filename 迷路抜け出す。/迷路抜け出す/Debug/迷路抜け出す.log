@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\monge\OneDrive\デスクトップ\迷路抜け出す\迷路抜け出す\main.cpp(62,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+C:\Users\monge\OneDrive\デスクトップ\迷路抜け出す\迷路抜け出す\main.cpp(165,24): warning C4838: 'int' から 'SHORT' への変換には縮小変換が必要です
+C:\Users\monge\OneDrive\デスクトップ\迷路抜け出す\迷路抜け出す\main.cpp(165,27): warning C4838: 'int' から 'SHORT' への変換には縮小変換が必要です
+  迷路抜け出す.vcxproj -> C:\Users\monge\OneDrive\デスクトップ\迷路抜け出す\Debug\迷路抜け出す.exe

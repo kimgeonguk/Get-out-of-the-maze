@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\monge\OneDrive\デスクトップ\취업\迷路抜け出す。\迷路抜け出す\main.cpp(62,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+C:\Users\monge\OneDrive\デスクトップ\취업\迷路抜け出す。\迷路抜け出す\main.cpp(162,24): warning C4838: 'int' から 'SHORT' への変換には縮小変換が必要です
+C:\Users\monge\OneDrive\デスクトップ\취업\迷路抜け出す。\迷路抜け出す\main.cpp(162,27): warning C4838: 'int' から 'SHORT' への変換には縮小変換が必要です
+  コード生成しています。
+  6 of 7 functions (85.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  迷路抜け出す.vcxproj -> C:\Users\monge\OneDrive\デスクトップ\취업\迷路抜け出す。\x64\Release\迷路抜け出す.exe
